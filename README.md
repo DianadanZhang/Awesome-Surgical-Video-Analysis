@@ -40,11 +40,11 @@ _**Keep updating. Welcome to contribute.**_
  -->
 [Others](#others)
 
-## <span id = "Latest"> **The Big Picture** </span>
+## <span id = "Latest"> **Latest Papers** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| Explainable Surgical Gesture Recognition | **2021 ICRA ** | [Paper](https://arxiv.org/pdf/2105.00460.pdf) |
+| Explainable Surgical Gesture Recognition | **ICRA 2021** | [Paper](https://arxiv.org/pdf/2105.00460.pdf) |
 
 
 
